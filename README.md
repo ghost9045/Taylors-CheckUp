@@ -22,7 +22,7 @@ SDG 3 focuses on improving health and well-being for people of all ages. Our sys
 
 **Taylor's Check-Up** is a digital healthcare management platform designed to improve access to healthcare services and promote healthier lifestyles. The system allows users to manage personal health information, access healthcare providers, and monitor fitness activities.
 
-The platform provides three main roles:
+The platform provides two main roles:
 
 **Patient (User)**
 
