@@ -40,11 +40,6 @@ The platform provides two main roles:
 * Access patient details and medical records
 * Manage availability status
 
-**Admin**
-
-* Manage user and doctor accounts
-* Monitor system usage
-* View system reports and analytics
 
 The system was developed as an interactive **prototype using Figma** to demonstrate the user interface and system functionality.
 
