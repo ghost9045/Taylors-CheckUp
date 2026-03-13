@@ -1,9 +1,9 @@
 # Taylors-CheckUp
 
 Ali Uzair Memon ( Lead designer and report management) 
-Abdul Wasi Anowar ( Prototype builder ) 
-Adnan Aabir ( Prototype Builder and github checker ) 
-Bader Banat ( Prototype Builder ) 
+Abdul Wasi Anowar ( Prototype builder and designer  ) 
+Adnan Aabir ( Prototype Builder and github checker group leader) 
+Bader Banat ( Prototype Builder, designer and project manager) 
 Ismail ( Trello and github worker )
 
 Project Title: Taylor's Checkup SDG chosen: SDG 3 (Good-Health and well-being)
