@@ -1,11 +1,86 @@
-# Taylors-CheckUp
+# Taylor's Check-Up
 
-Ali Uzair Memon ( Lead designer and report management) 
-Abdul Wasi Anowar ( Prototype builder and designer  ) 
-Adnan Aabir ( Prototype Builder and github checker group leader) 
-Bader Banat ( Prototype Builder, designer and project manager) 
-Ismail ( Trello and github worker )
+## Sustainable Development Goal (SDG)
 
-Project Title: Taylor's Checkup SDG chosen: SDG 3 (Good-Health and well-being)
+This project supports **Sustainable Development Goal 3: Good Health and Well-Being**.
 
-Taylor's Checkup is a dedicated solution for SDG 3: Good Health and Well-being, designed to help studdents by making it easier for them to track and improve their health. My development followed a structured SDLC workflow, beginning with a Planning phase to define HIPAA-compliant data needs and core MVP features. I then moved into Design, prioritizing a clean, accessible UI for ease of use under stress, and concluded with a rigorous Testing and Evaluation phase utilizing Manual Functional Testing to walk through every user path and Cross-Browser Validation to ensure the health resources are accessible on any deviceto ensure data accuracy and platform stability, resulting in a reliable tool that promotes better health outcomes for the community.
+SDG 3 focuses on improving health and well-being for people of all ages. Our system aims to help users manage their healthcare information and access medical services more easily through a digital platform.
+
+---
+
+## Team Members
+
+* Bader Banat – Prototype Builder
+* Ali Uzair Memon – Lead designer and report management
+* Ahmud Ismail Capery – Trello and gitHub Management
+* Aabir Adnan – Prototype Builder and github checker
+* Abdul Wasi Anowar – Prototype builder
+
+---
+
+## Project Description
+
+**Taylor's Check-Up** is a digital healthcare management platform designed to improve access to healthcare services and promote healthier lifestyles. The system allows users to manage personal health information, access healthcare providers, and monitor fitness activities.
+
+The platform provides three main roles:
+
+**Patient (User)**
+
+* Create and manage personal health profiles
+* View health records and insurance information
+* Find nearby hospitals and doctors
+* Book medical appointments
+* Request ambulance services
+* Track fitness progress and generate AI-based workout or nutrition plans
+
+**Doctor**
+
+* View scheduled appointments
+* Confirm or cancel patient appointments
+* Access patient details and medical records
+* Manage availability status
+
+**Admin**
+
+* Manage user and doctor accounts
+* Monitor system usage
+* View system reports and analytics
+
+The system was developed as an interactive **prototype using Figma** to demonstrate the user interface and system functionality.
+
+---
+
+## Software Development Life Cycle (SDLC)
+
+The project follows the **Software Development Life Cycle (SDLC)** and uses an **Agile approach** for project management.
+
+### Planning
+
+The team defined the project idea and selected **SDG 3: Good Health and Well-Being** as the focus. Project tasks were organized using **Trello**.
+
+### Analysis
+
+System requirements were identified and documented. UML diagrams such as the **Use Case Diagram** and **Class Diagram** were created to represent the system structure and interactions.
+
+### Design
+
+The system interface and user experience were designed using **Figma**, where a prototype of the application was created.
+
+### Prototype Development
+
+The prototype demonstrates the navigation flow and interaction between different system pages such as login, dashboards, and healthcare services.
+
+### Testing / Evaluation
+
+Usability testing was conducted to evaluate the prototype and identify possible improvements based on feedback.
+
+---
+
+## Repository Structure
+
+The repository is organized according to the different stages of the SDLC.
+
+planning/ – Project planning documents and Trello board screenshots
+design/ – System design materials such as UML diagrams and prototype screenshots
+testing/ – Usability testing notes and feedback
+final/ – Final prototype results and system summary
