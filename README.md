@@ -9,12 +9,28 @@ SDG 3 focuses on improving health and well-being for people of all ages. Our sys
 ---
 
 ## Team Members
+Aabir Adnan (Group Leader)
+- Prototype Builder
+- Designer
+- GitHub Checker
+- 
+Bader Banat (Main Project Manager)
+- Prototype Builder
+- Designer
+- Design Checker
+- GitHub Management
 
-* Bader Banat – Prototype Builder, Designer, main project manager, Design Checker, github managment
-* Ali Uzair Memon – Lead designer and report management
-* Ahmud Ismail Capery – Trello progress manager and gitHub Management
-* Aabir Adnan – Prototype Builder, Designer and github checker ( Group Leader )
-* Abdul Wasi Anowar – Prototype builder, Main Prototype Designer 
+Ali Uzair Memon
+- Lead Designer
+- Report Management
+
+Ahmud Ismail Capery
+- Trello Progress Manager
+- GitHub Management
+
+Abdul Wasi Anowar
+- Prototype Builder
+- Main Prototype Designer
 
 ---
 
