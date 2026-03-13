@@ -11,17 +11,17 @@ SDG 3 focuses on improving health and well-being for people of all ages. Our sys
 ## Team Members
 Aabir Adnan (Group Leader)
 - Prototype Builder
-- Designer
+- Prototype Designer
 - GitHub Checker
 
 Bader Banat (Main Project Manager)
 - Prototype Builder
-- Designer
-- Design Checker
+- Prototype Designer
+- Design Checker ( Prototype, Use case and Class )
 - GitHub Management
 
 Ali Uzair Memon
-- Lead Designer
+- Lead Designer (Use Case and Class )
 - Report Management
 
 Ahmud Ismail Capery
