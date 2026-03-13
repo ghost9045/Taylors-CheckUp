@@ -13,7 +13,7 @@ Aabir Adnan (Group Leader)
 - Prototype Builder
 - Designer
 - GitHub Checker
-- 
+
 Bader Banat (Main Project Manager)
 - Prototype Builder
 - Designer
